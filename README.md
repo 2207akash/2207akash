@@ -15,7 +15,7 @@
 - 🌱 I’m currently learning:
   - Backend technologies - HLD (building scalable systems)
   - LLD (Design patterns)
-  - Always improving on iOS app dev :)
+  - SwiftUI
  
 - ⚡ Fun fact:
   - My "Hello world!" began with Python, then C++ and currently I'm in love with Swift ❤️
