@@ -7,18 +7,22 @@
 
 - 🔭 I’m currently working on:
   - Building products for my current organization
-  - Exposing my learning of good coding practices, algorithms and data structures to you
-  - Some personal projects that I always wanted to build for myself (and maybe for more?):
+  - Contributing my knowledge of good coding practices, algorithms and data structures via Github Repos
+  - Multiple personal projects:
     - [Todo-Check](https://github.com/2207akash/Todo-Check)
-    - [FocusBuddy](https://github.com/2207akash/FocusBuddy)
+    - FocusBuddy
+    - Swift-Diary2024
  
 - 🌱 I’m currently learning:
-  - Backend technologies - HLD (building scalable systems)
-  - LLD (Design patterns)
-  - SwiftUI
+  - Building backend APIs
+  - Low-Level Design
+  - Advanced Swift & SwiftUI
+
+- 👯 I’m looking to collaborate on:
+  - Interesting Swift projects & frameworks
  
 - ⚡ Fun fact:
-  - My "Hello world!" began with Python, then C++ and currently I'm in love with Swift ❤️
+  - What city has a population of 1?
 
 - 📫 How to reach me:
   - [![Linkedin Badge](https://img.shields.io/badge/-Akash-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/akash-sen-b4b50b194/)
@@ -27,8 +31,6 @@
 **2207akash/2207akash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 😄 Pronouns: ...
 -->
