@@ -9,7 +9,7 @@
   - Building products for my current organization
   - Exposing my learning of good coding practices, algorithms and data structures to you
   - Some personal projects that I always wanted to build for myself (and maybe for more?):
-    - [Diary2024](https://github.com/2207akash/Swift-Diary2024)
+    - [Todo-Check](https://github.com/2207akash/Todo-Check)
     - [FocusBuddy](https://github.com/2207akash/FocusBuddy)
  
 - 🌱 I’m currently learning:
