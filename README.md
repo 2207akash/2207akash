@@ -8,21 +8,18 @@
 - 🔭 I’m currently working on:
   - Building products for my current organization
   - Contributing my knowledge of good coding practices, algorithms and data structures via Github Repos
-  - Multiple personal projects:
+  - Some personal projects:
     - [Todo-Check](https://github.com/2207akash/Todo-Check)
     - FocusBuddy
     - Swift-Diary2024
  
 - 🌱 I’m currently learning:
-  - Building backend APIs
+  - To build backend APIs
   - Low-Level Design
   - Advanced Swift & SwiftUI
 
 - 👯 I’m looking to collaborate on:
   - Interesting Swift projects & frameworks
- 
-- ⚡ Fun fact:
-  - What city has a population of 1?
 
 - 📫 How to reach me:
   - [![Linkedin Badge](https://img.shields.io/badge/-Akash-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/akash-sen-b4b50b194/)
