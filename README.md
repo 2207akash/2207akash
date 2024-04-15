@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on:
   - Building products for my current organization
-  - Some personal projects planned for this year:
+  - Some personal projects planned for 2024:
     - InstaConnect: Real-Time Messaging
     - TaskTrack Pro: Productivity
  
