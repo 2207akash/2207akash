@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on:
   - Building products for my current organization
   - Some personal projects planned for this year:
-    - [InstaConnect: Real-Time Messaging](https://github.com/2207akash/InstaConnect)
+    - InstaConnect: Real-Time Messaging
     - TaskTrack Pro: Productivity
  
 - 🌱 I’m currently learning:
