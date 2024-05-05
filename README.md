@@ -10,6 +10,7 @@
   - Some personal projects planned for 2024:
     - InstaConnect: Real-Time Messaging
     - TaskTrack Pro: Productivity
+    - MyWallet: Expense Tracker
  
 - 🌱 I’m currently learning:
   - Backend development (using node.js)
