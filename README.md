@@ -13,10 +13,10 @@
     - MyWallet: Expense Tracker
  
 - 🌱 I’m currently learning:
-  - Backend development (using node.js)
   - Design Principles & Patterns
-  - RxSwift
   - SwiftUI & SwiftData
+  - RxSwift
+ 
 <!--
 - 👯 I’m looking to collaborate on:
   - Interesting Swift projects & frameworks
