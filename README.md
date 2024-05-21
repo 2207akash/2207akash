@@ -5,17 +5,18 @@
   - Good coding practices (SOLID Principles, [Design Patterns](https://github.com/2207akash/design-patterns), etc.)
   - [Data Structures](https://github.com/2207akash/data-structures) and [Algorithms](https://github.com/2207akash/algorithms)
 
+<!--
 - 🔭 I’m currently working on:
   - Building products for my current organization
   - Some personal projects planned for 2024:
     - InstaConnect: Real-Time Messaging
     - TaskTrack Pro: Productivity
     - MyWallet: Expense Tracker
- 
+ -->
 - 🌱 I’m currently learning:
-  - Design Principles & Patterns
-  - SwiftUI & SwiftData
-  - RxSwift
+  - Design Architectures, Principles & Patterns
+  - Advanced Swift
+  - SwiftUI, SwiftData
  
 <!--
 - 👯 I’m looking to collaborate on:
