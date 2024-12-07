@@ -15,15 +15,15 @@
  -->
 - 🌱 I’m currently learning:
   - Design Architectures, Principles & Patterns
-  - Advanced Swift
-  - SwiftUI, SwiftData
+  - Everything around iOS
+  - Building backend services with node.js
  
 <!--
 - 👯 I’m looking to collaborate on:
   - Interesting Swift projects & frameworks
 -->
 - 📫 How to reach me:
-  - [![Linkedin Badge](https://img.shields.io/badge/-Akash-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/akash-sen-b4b50b194/)
+  - [![Linkedin Badge](https://img.shields.io/badge/-Akash-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/akashsen2207/)
  
 <!--
 **2207akash/2207akash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
