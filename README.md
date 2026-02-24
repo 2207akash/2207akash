@@ -1,9 +1,10 @@
 ### Hi there 👋
 
 - 💬 Ask me about:
-  - iOS App development
-  - Best coding practices (SOLID Principles, [Design Patterns](https://github.com/2207akash/design-patterns), etc.)
-  - [Data Structures](https://github.com/2207akash/data-structures) and [Algorithms](https://github.com/2207akash/algorithms)
+  - iOS App development (Swift)
+  - Android App development (Kotlin)
+  - Writing quality code (SOLID Principles, [Design Patterns](https://github.com/2207akash/design-patterns), etc.)
+  - [Data Structures & Algorithms](https://github.com/2207akash/dsa)
 
 <!--
 - 🔭 I’m currently working on:
@@ -15,7 +16,7 @@
  -->
 - 🌱 I’m currently learning:
   - Design Architectures, Principles & Patterns
-  - Everything around iOS
+  - Everything around iOS / Android
  
 <!--
 - 👯 I’m looking to collaborate on:
